@@ -20,9 +20,7 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
 
     - name: Build Docker image
-      run: |
-        docker build -t iamtamil0/devops-cicd-app:latest .
+      run: docker build -t iamtamil0/devops-cicd-app:latest .
 
     - name: Push Docker image
-      run: |
-        docker push iamtamil0/devops-cicd-app:latest
+      run: docker push iamtamil0/devops-cicd-app:latest
