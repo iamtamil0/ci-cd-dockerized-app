@@ -72,6 +72,7 @@ http://127.0.0.1/
 📸 Screenshots
 Add screenshots of:
 
+![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image.png)
 
