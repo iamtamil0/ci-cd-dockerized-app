@@ -67,6 +67,7 @@ sudo usermod -aG docker ubuntu
 Run container:
 docker run -d --name devops-cicd-app -p 80:5000 iamtamil0/devops-cicd-app:latest
 
+http://13.232.222.190
 http://127.0.0.1/
 
 📸 Screenshots
@@ -75,6 +76,8 @@ Add screenshots of:
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 ![alt text](image.png)
+<img width="1916" height="1033" alt="image" src="https://github.com/user-attachments/assets/0fd73e13-d7c5-4772-82cb-607616445cb0" />
+
 
 🎯 Key Learnings
 
